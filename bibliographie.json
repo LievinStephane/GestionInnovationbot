@@ -1,12 +1,56 @@
 {
     "bibliographie": [
-       {
-  "bibliographie": "📚 **Bibliographie**\n\n"
-    "📖 Aggeri, F. (2023). *L'innovation, mais pour quoi faire ?* Essai sur un mythe économique, social et managérial. **Seuil**.\n\n"
-    "📖 Autissier, D., Bretonès, D., Jacquillat, E., Martin, D. G., & Sibieude, T. (2020). *Entreprises à mission et raison d’être - Changer l’entreprise pour un monde plus durable*. **Dunod**.\n\n"
-    "📖 Garel, G., & Mock, E. (2022). *La fabrique de l’innovation*. **Dunod**.\n\n"
-    "📖 Hatchuel, A., & Weil, B. (2009). *C-K Design Theory: An Advanced Formulation*. **Research in Engineering Design**.\n\n"
-    "📖 Schumpeter, J. (1939). *Business Cycles*. **McGraw-Hill**.\n\n"
-    "📖 Tidd, J., & Bessant, J. (2018). *Managing Innovation: Integrating Technological, Market and Organizational Change*. **John Wiley & Sons**."
+        {
+            "auteur": "Aggeri, F.",
+            "date": "2023",
+            "titre": "L'innovation, mais pour quoi faire ? : essai sur un mythe économique, social et managérial",
+            "éditeur": "Seuil"
+        },
+        {
+            "auteur": "Autissier, D., Bretonès, D., Jacquillat, E., Martin, D. G., & Sibieude, T.",
+            "date": "2020",
+            "titre": "Entreprises à mission et raison d’être - Changer l’entreprise pour un monde plus durable",
+            "éditeur": "Dunod"
+        },
+        {
+            "auteur": "Battistelli, M.",
+            "date": "2017",
+            "titre": "L’entreprise à mission : un modèle de gouvernance pour l’innovation",
+            "éditeur": "Vuibert"
+        },
+        {
+            "auteur": "Garel, G., & Mock, E.",
+            "date": "2022",
+            "titre": "La fabrique de l’innovation",
+            "éditeur": "Dunod"
+        },
+        {
+            "auteur": "Garel, G.",
+            "date": "2025",
+            "titre": "Cours de Gestion de l'innovation [Support de cours]",
+            "source": "Conservatoire National des Arts et Métiers (CNAM), Master MICI"
+        },
+        {
+            "auteur": "Le Masson, P., Hatchuel, A., & Weil, B.",
+            "date": "2018",
+            "titre": "Théorie C-K – Fondements et implications d’une théorie de la conception",
+            "éditeur": "Techniques de l’Ingénieur"
+        },
+        {
+            "auteur": "Levillain, K.",
+            "date": "2022",
+            "titre": "Les entreprises à mission : Un modèle de gouvernance pour l'innovation"
+        },
+        {
+            "auteur": "OCDE/Eurostat",
+            "date": "2019",
+            "titre": "Manuel d’Oslo – Ligne directrice pour le recueil, la communication et l’utilisation des données sur l’innovation (4e éd.)"
+        },
+        {
+            "auteur": "Bpifrance",
+            "date": "2014",
+            "titre": "Innovation Nouvelle Génération",
+            "lien": "https://www.bpifrance.fr/download/media-file/41877"
+        }
+    ]
 }
-

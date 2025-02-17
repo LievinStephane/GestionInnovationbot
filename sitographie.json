@@ -1,30 +1,74 @@
 {
-  "sitographie": "🌐 **Sitographie**\n\n"
-    "🔗 Comité 21 (2022, février). *La sobriété - fil vert de la transformation*.\n"
-    "📅 Consulté le 07/02/2025\n"
-    "🔗 [Lien](http://www.comite21.org/docs/comite-21-la-sobriete-fil-vert-de-la-transformation.pdf)\n\n"
-  
-    "🔗 Garcés, C. (2024, 12 avril). *Team for the Planet, un incubateur d’innovations pour la sobriété*.\n"
-    "📅 Consulté le 02/02/2025\n"
-    "🔗 [Lien](https://www.parlonsplanete.com/innovations-environnementales/team-planet)\n\n"
-
-    "🔗 Garel, G. (2025). *MOOC Fabrique des innovations [Cours en ligne]*.\n"
-    "📅 Consulté le 07/12/2025\n"
-    "🔗 [Lien](https://lms.fun-mooc.fr/courses/course-v1:CNAM+01023+archive_ouvert/info)\n\n"
-
-    "🔗 Guillard, V. (2022, 22 février). *Comment consommer avec sobriété ? : « Il existe un marketing de la sobriété »*.\n"
-    "📅 Consulté le 07/02/2025\n"
-    "🔗 [Lien](https://www.goodplanet.info/2022/02/22/valerie-guillard-auteure-de-comment-consommer-avec-sobriete-il-existe-un-marketing-de-la-sobriete/)\n\n"
-
-    "🔗 Guillard, V. (2025, 07 février). *Comment amener le consommateur à vraiment pratiquer la sobriété ?*.\n"
-    "📅 Consulté le 07/02/2025\n"
-    "🔗 [Lien](https://ecole.org/fr/compte-rendu/html/1509-comment-amener-le-consommateur-a-vraiment-pratiquer-la-sobriete)\n\n"
-
-    "🔗 Ministère de l’Économie (n.d.). *Dictionnaire économique*.\n"
-    "📅 Consulté le 07/02/2025\n"
-    "🔗 [Lien](https://www.economie.gouv.fr/facileco/dico-eco)\n\n"
-
-    "🔗 Morel, L. (2025, 31 janvier). *Dossier de présentation de Team for the Planet*.\n"
-    "📅 Consulté le 02/02/2025\n"
-    "🔗 [Lien](https://fr.slideshare.net/slideshow/dossier-de-presentation-de-team-for-the-planet/275274001#9)"
+    "sitographie": [
+        {
+            "auteur": "Comité 21",
+            "date": "2022, février",
+            "titre": "La sobriété - fil vert de la transformation",
+            "consultation": "07/02/2025",
+            "lien": "http://www.comite21.org/docs/comite-21-la-sobriete-fil-vert-de-la-transformation.pdf"
+        },
+        {
+            "auteur": "Garcés, C.",
+            "date": "2024, 12 avril",
+            "titre": "Team for the Planet, un incubateur d’innovations pour la sobriété",
+            "consultation": "02/02/2025",
+            "lien": "https://www.parlonsplanete.com/innovations-environnementales/team-planet"
+        },
+        {
+            "auteur": "Garel, G.",
+            "date": "2025",
+            "titre": "MOOC Fabrique des innovations [Cours en ligne]",
+            "consultation": "07/12/2025",
+            "lien": "https://lms.fun-mooc.fr/courses/course-v1:CNAM+01023+archive_ouvert/info"
+        },
+        {
+            "auteur": "Guillard, V.",
+            "date": "2022, 22 février",
+            "titre": "Comment consommer avec sobriété ? : « Il existe un marketing de la sobriété »",
+            "consultation": "07/02/2025",
+            "lien": "https://www.goodplanet.info/2022/02/22/valerie-guillard-auteure-de-comment-consommer-avec-sobriete-il-existe-un-marketing-de-la-sobriete/"
+        },
+        {
+            "auteur": "Guillard, V.",
+            "date": "2025, 07 février",
+            "titre": "Comment amener le consommateur à vraiment pratiquer la sobriété ?",
+            "consultation": "07/02/2025",
+            "lien": "https://ecole.org/fr/compte-rendu/html/1509-comment-amener-le-consommateur-a-vraiment-pratiquer-la-sobriete"
+        },
+        {
+            "auteur": "Ministère de l’Économie",
+            "date": "n.d.",
+            "titre": "Dictionnaire économique",
+            "consultation": "07/02/2025",
+            "lien": "https://www.economie.gouv.fr/facileco/dico-eco"
+        },
+        {
+            "auteur": "Morel, L.",
+            "date": "2025, 31 janvier",
+            "titre": "Dossier de présentation de Team for the Planet",
+            "consultation": "02/02/2025",
+            "lien": "https://fr.slideshare.net/slideshow/dossier-de-presentation-de-team-for-the-planet/275274001#9"
+        },
+        {
+            "auteur": "Sciences Po",
+            "date": "n.d.",
+            "titre": "Citer ses sources et rédiger une bibliographie",
+            "consultation": "07/02/2025",
+            "lien": "https://www.sciencespo.fr/college/sites/sciencespo.fr.college/files/citer-sources-rediger-bibliographie-fr.pdf"
+        },
+        {
+            "auteur": "Team for the Planet",
+            "date": "n.d.",
+            "titre": "Site officiel",
+            "consultation": "02/02/2025",
+            "lien": "https://team-planet.com/fr"
+        },
+        {
+            "auteur": "You Matter",
+            "date": "2023, 4 janvier",
+            "titre": "Sobriété volontaire / sobriété heureuse : Définition",
+            "consultation": "07/02/2025",
+            "lien": "https://youmatter.world/fr/definition/sobriete-volontaire-sobriete-heureuse-definition/"
+        }
+    ]
 }
